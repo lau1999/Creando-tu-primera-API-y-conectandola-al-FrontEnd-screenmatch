@@ -20,6 +20,8 @@ npm install
 
 ## Configuración de Variables de Entorno
 
+![Requisitos](https://github.com/lau1999/Creando-tu-primera-API-y-conectandola-al-FrontEnd-screenmatch/assets/135270242/bce12b80-8b75-4eeb-b07a-e7c2321d4d57)
+
 
 ## Exportación de la Base de Datos a PostgreSQL
 
@@ -41,7 +43,5 @@ CREATE DATABASE nombre_de_la_base_de_datos;
 psql -U usuario -d nombre_de_la_base_de_datos -f archivo_exportado.sql
 ```
 
-## Uso
 
-Proporciona instrucciones sobre cómo ejecutar y utilizar el proyecto una vez que esté configurado.
 
